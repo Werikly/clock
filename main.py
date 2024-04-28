@@ -1,5 +1,6 @@
 import turtle
 
+
 uzbek = turtle.Turtle()
 
 turtle.setup(500, 500, 0, 0)
